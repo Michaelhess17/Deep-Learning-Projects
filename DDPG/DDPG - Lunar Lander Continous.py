@@ -1,3 +1,5 @@
+# Created with the help of a tutorial by Machine Learning with Phil, where he goes through the paper and implements as he goes!
+
 import os
 import torch as T
 import torch.nn as nn
